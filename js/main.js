@@ -22,10 +22,20 @@ var doc=document,flower=doc.querySelector('.flower'),petalPartMarkup='<div class
   
   // Followers - Cambiar mensajes
   const messages = [
-    'Una flor hermosa para una chica hermosa',
-    'Sos el amor de mi alma',
-    'Te amos muchos muchitos muchisimos',
+    'Una flor hermosa',
+    'para una chica hermosa',
+    'Sos el amor',
+    'de mi alma',
+    'Te amos muchos',
+    'muchitos muchisimos',
     'Gracias por ser como sos, por amarme tanto, te juro que por vos haría cualquier cosa, sos lo más importante que tengo en el mundo y no puedo esperar a compartir mi vida con vos ❤️',
+    'Por amarme tanto',
+    'Te juro que por vos',
+    'Haría cualquier cosa',
+    'Sos lo más importante',
+    'Que tengo en el mundo',
+    'Y no puedo esperar',
+    'A compartir mi vida con vos ❤️',
     'Y perdon por tardar tanto en hacer esto, pero quería que fuera algo especial y único, como vos, y bueno, espero que te guste, te amo con todo mi corazón'
   ];
   
